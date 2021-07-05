@@ -95,7 +95,7 @@ html {
 /* ---------------------------------- Hero ---------------------------------- */
 .hero {
   height: 53.8rem;
-  background: url(../images/hero-1.png) no-repeat 0px 0px;
+  background: url(../images/hero.png) no-repeat 0px 0px;
   background-size: cover; }
 
 @media (max-width: 1025px) and (orientation: portrait) {
